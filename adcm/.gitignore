@@ -1,0 +1,9 @@
+
+*.pyc
+
+*.retry
+
+log/
+.idea/*
+reports/*
+__pycache__/*
